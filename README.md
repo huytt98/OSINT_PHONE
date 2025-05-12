@@ -4,7 +4,7 @@
   <img src="banner.png" alt="R4v3n OSINT Tool"/>
 </p>
 
-> Developed by R4v3n  
+> Developed by R4v3n09  
 > Version 1.0
 
 An advanced OSINT (Open Source Intelligence) tool for phone number analysis and information gathering.
@@ -154,11 +154,11 @@ Contributions are welcome! Please feel free to submit pull requests.
 
 ## Author
 
-**R4v3n**
-- GitHub: [@R4v3n](https://github.com/R4v3n)
+**R4v3n09**
+- GitHub: [@R4v3n](https://github.com/R4v3n09)
 
 ## License
 
-Copyright © 2024 R4v3n  
+Copyright © 2025 R4v3n09  
 This project is MIT licensed.
 
